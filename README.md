@@ -1,6 +1,6 @@
 # Super Hero Hunter Application
 
-![image](https://github.com/MohammadVazeerAliKhan/Super-Hero-Hunter/assets/119596941/41a45b12-9795-44f3-84fc-464a547dd1c7)
+![image](https://github.com/MohammadVazeerAliKhan/SuperHeroHunterApp/assets/119596941/b85e44ec-ce1c-4562-a670-e284e729ce49)
 
 
 ## Introduction
