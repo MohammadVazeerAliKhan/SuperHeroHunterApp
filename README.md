@@ -11,7 +11,9 @@ Super Hero Hunter Application is providing you the information about Marvel supe
 * Users if wish to remove a hero/villain from their favourites page, they can do it by clicking on the remove button that will be on a super hero card after a user add them to his/her favourites
 
 ## 🔨 Tools Used
-![toolsused](https://github.com/MohammadVazeerAliKhan/Codesocialapp/assets/119596941/1d58de5d-7c86-469f-b6ff-014e72c55938)
+
+![image](https://github.com/MohammadVazeerAliKhan/SuperHeroHunterApp/assets/119596941/a63cd8f7-873e-4c19-aacf-ee943d9d20e4)
+
 
 
 * Programming / Scripting: JavaScript
