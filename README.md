@@ -28,18 +28,19 @@ Super Hero Hunter Application is providing you the information about Marvel supe
 
 ### Auto Suggestions in Search Bar
 
-![image](https://github.com/MohammadVazeerAliKhan/Super-Hero-Hunter/assets/119596941/cec10519-fc13-4b06-8d56-10c16c92e784)
+![image](https://github.com/MohammadVazeerAliKhan/SuperHeroHunterApp/assets/119596941/d5801635-0ec9-4e82-b50c-e4d630b424c4)
 
 
 
 ### Favourites Page
-![image](https://github.com/MohammadVazeerAliKhan/Super-Hero-Hunter/assets/119596941/7f707848-5237-4773-83aa-80bba7496502)
+
+![image](https://github.com/MohammadVazeerAliKhan/SuperHeroHunterApp/assets/119596941/b382fad4-6c4a-4785-b10b-7c183a8117e5)
 
 
 
 ### Super Hero Information Page
 
-![image](https://github.com/MohammadVazeerAliKhan/Super-Hero-Hunter/assets/119596941/c09eddcd-cb62-412a-ac13-a3a3e43f4c02)
+![image](https://github.com/MohammadVazeerAliKhan/SuperHeroHunterApp/assets/119596941/920465ac-009e-458c-995b-23ddcb33477f)
 
 
   ### Mobile Screen View
