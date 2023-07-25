@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Super Hero Hunter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id ="backgroundtheme">
+    <video  muted autoplay loop src="./video/backgroundtheme.mp4"></video>
+  </div>
+  
+  <div class="container">
+
+    <!-- App title -->
+    <div class="header">
+      <h1>Super Hero Hunter App</h1>
+    </div>
+
+    <!-- Searching html -->
+
+    <div class="searchelement">
+
+      <div class="searchbox">
+        <input type="text" class="searchtext" id="searchtext" placeholder="Search for a Superhero..." onkeyup="searchData()">
+        <!-- List to fetch from API -->
+        <div class="searchedListContainer">
+          <div class="searchListitems">
+            <!-- <div id="id" class="searchedHero" name="name">
+              
+            </div> -->
+          </div>
+        </div>
+      </div>
+      
+      
+      <div id="fav-btn">
+        <a href="fav/favpage.html">Favourites</a>
+      </div>
+
+
+
+    </div>
+
+    <!-- Loading super heroes on Homepage -->
+    <div class="heroesContainer">
+      <div class="heroCards">
+        <!-- Data to fetch here -->
+          <!-- <li id = id class="hero">
+            <img src="imgsrc" alt="" class="heroImg">
+            <p class="heroName"></p>
+          </li> -->
+      </div>
+    </div>
+
+
+  </div>  
+  <script src="index.js"></script>
+
+</body>
+</html>
